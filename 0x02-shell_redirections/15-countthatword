@@ -1,2 +1,2 @@
 #!/bin/bash
-grep --ignore-case "bin" /etc/passwd
+grep -c --ignore-case "bin" /etc/passwd | wc -l
