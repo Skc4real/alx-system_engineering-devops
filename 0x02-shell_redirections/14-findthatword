@@ -1,0 +1,2 @@
+#!/bin/bash
+grep --extended-regexp --ignore-case "root" /etc/passwd
