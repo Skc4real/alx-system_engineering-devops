@@ -1,2 +1,2 @@
 #!/bin/bash
-sort C_file | uniq -u
+sort | uniq -u
