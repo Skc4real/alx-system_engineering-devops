@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "my name is KC and i came to church around 2 oClock to see chidi and chioma" | tr -d 'cC'
+tr -d cC
